@@ -58,3 +58,9 @@ For example, let's say that you want to setup the dark variants of the blue and 
 ```bash
 sudo python3 install.py --color blue pink --mode dark
 ```
+
+### Preview
+![light-themes](/previews/light.png?raw=true)
+
+
+![dark-themes](/previews/dark.png?raw=true)
